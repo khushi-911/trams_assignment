@@ -13,6 +13,10 @@ export function Images() {
     { id: 6, src: tram2, alt: "image2" },
     { id: 7, src: tram2, alt: "image2" },
     { id: 8, src: tram2, alt: "image2" }
+
+
+
+    
   ];
 
   return (
